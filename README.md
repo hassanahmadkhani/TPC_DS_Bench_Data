@@ -1,12 +1,12 @@
-hive-testbench
+TPC_DS_Bench_Data
 ==============
 
-A testbench for experimenting with Apache Hive at any data scale.
+A data generator for benchmarking with Apache Hive/Impala at any data scale.
 
 Overview
 ========
 
-The hive-testbench is a data generator and set of queries that lets you experiment with Apache Hive at scale. The testbench allows you to experience base Hive performance on large datasets, and gives an easy way to see the impact of Hive tuning parameters and advanced settings.
+The TPC_DS_Bench_Data is a data generator and set of queries that lets you experiment with Apache Hive at scale. The TPC_DS_Bench_Data allows you to experience base Hive performance on large datasets, and gives an easy way to see the impact of Hive tuning parameters and advanced settings.
 
 Prerequisites
 =============
