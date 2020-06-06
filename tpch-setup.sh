@@ -55,7 +55,7 @@ if [ $? -ne 0 ]; then
 fi
 hdfs dfs -ls ${DIR}/${SCALE}/lineitem > /dev/null
 if [ $? -ne 0 ]; then
-	echo "Data generation failed, exiting."
+	echo "Data generation failed with error, exiting."
 	exit 1
 fi
 echo "TPC-H text data generation complete."
