@@ -83,9 +83,4 @@ All of these steps should be carried out on your Hadoop cluster.
   	hive> source tpch_query1.sql;
   	```
 
-Feedback
-========
 
-If you have questions, comments or problems, visit the [Hortonworks Hive forum](http://hortonworks.com/community/forums/forum/hive/).
-
-If you have improvements, pull requests are accepted.
